@@ -16,11 +16,9 @@
     <a href="https://x.com/kaaspro" target="blank"><img align="center"
         src="https://deadline.com/wp-content/uploads/2023/07/x-twitter-handle.jpg?w=681&h=383&crop=1"
         alt="Kaaspro" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/klaus0110" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-        alt="Klaus0110" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/klaus0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Klaus0110" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/klaus0110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Klaus0110" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/@Kaaspro-Inc" target="blank"><img align="center"
+        src="https://1.bp.blogspot.com/-zaoiLHspoKI/XeI_0uFAeCI/AAAAAAAAF38/CyHgdY8bdOQ7d979yOJ0voSIA8b5bAF2wCLcBGAsYHQ/s1600/Youtube-Icon-2000x2000.png"
+        alt="Kaaspro" height="30" width="40" /></a>
   </p>
   
   <br>
