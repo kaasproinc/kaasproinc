@@ -12,10 +12,10 @@
   <p align="left">
     <a href="https://www.linkedin.com/company/106392299/admin/dashboard/" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="kaaspro" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/kushagra_0110/" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-        alt="Klaus0110" height="30" width="40" /></a>
+        alt="Kaaspro" height="30" width="40" /></a>
+    <a href="https://x.com/kaaspro" target="blank"><img align="center"
+        src="https://deadline.com/wp-content/uploads/2023/07/x-twitter-handle.jpg?w=681&h=383&crop=1"
+        alt="Kaaspro" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/klaus0110" target="blank"><img align="center"
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
         alt="Klaus0110" height="30" width="40" /></a>
